@@ -1,4 +1,0 @@
-
-productos_1 200.00
-productos_2 150.50
-productos_3 120.39
